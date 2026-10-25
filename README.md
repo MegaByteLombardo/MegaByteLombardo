@@ -1,3 +1,5 @@
+<img align="right" width="220" src="https://media1.tenor.com/m/htvePlZXnicAAAAC/donkey-kong-country-super-nintendo.gif" alt="Donkey Kong Country">
+
 # Andrés Moreno Lombardo
 
 Software Engineer & Data Engineer. I build greenfield systems end to end: ETL pipelines on Google Cloud, backend services and full-stack web apps.
